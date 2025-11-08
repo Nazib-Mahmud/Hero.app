@@ -1,0 +1,530 @@
+[
+  {
+    "image": "/assets/demo2.webp",
+    "title": "Forest: Focus For Productivity",
+    "companyName": "hero.io labs",
+    "id": 1,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 86,
+    "reviews": 20409,
+    "ratingAvg": 4.4,
+    "downloads": 5238813,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 397
+      },
+      {
+        "name": "2 star",
+        "count": 575
+      },
+      {
+        "name": "3 star",
+        "count": 4405
+      },
+      {
+        "name": "4 star",
+        "count": 3938
+      },
+      {
+        "name": "5 star",
+        "count": 12778
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo3.webp",
+    "title": "SmPlan: ToDo List With Reminder",
+    "companyName": "hero.io labs",
+    "id": 2,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 279,
+    "reviews": 39970,
+    "ratingAvg": 3.7,
+    "downloads": 733933,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 232
+      },
+      {
+        "name": "2 star",
+        "count": 1765
+      },
+      {
+        "name": "3 star",
+        "count": 2330
+      },
+      {
+        "name": "4 star",
+        "count": 5740
+      },
+      {
+        "name": "5 star",
+        "count": 2059
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo4.webp",
+    "title": "FLIP - Focus Timer For Study",
+    "companyName": "hero.io labs",
+    "id": 3,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 227,
+    "reviews": 77860,
+    "ratingAvg": 4.5,
+    "downloads": 888039,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 841
+      },
+      {
+        "name": "2 star",
+        "count": 820
+      },
+      {
+        "name": "3 star",
+        "count": 1902
+      },
+      {
+        "name": "4 star",
+        "count": 6711
+      },
+      {
+        "name": "5 star",
+        "count": 4069
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo5.webp",
+    "title": "Pomocat - Cute Pomodoro Timer",
+    "companyName": "hero.io labs",
+    "id": 4,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 106,
+    "reviews": 27653,
+    "ratingAvg": 4.5,
+    "downloads": 226543,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 971
+      },
+      {
+        "name": "2 star",
+        "count": 1337
+      },
+      {
+        "name": "3 star",
+        "count": 376
+      },
+      {
+        "name": "4 star",
+        "count": 2289
+      },
+      {
+        "name": "5 star",
+        "count": 3182
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo6.webp",
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "hero.io labs",
+    "id": 5,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 278,
+    "reviews": 56696,
+    "ratingAvg": 3.9,
+    "downloads": 6193865,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 263
+      },
+      {
+        "name": "2 star",
+        "count": 1199
+      },
+      {
+        "name": "3 star",
+        "count": 996
+      },
+      {
+        "name": "4 star",
+        "count": 3669
+      },
+      {
+        "name": "5 star",
+        "count": 11999
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo1.webp",
+    "title": "Morning Habits - Daily Routine",
+    "companyName": "hero.io labs",
+    "id": 6,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 129,
+    "reviews": 50537,
+    "ratingAvg": 3.6,
+    "downloads": 3702956,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 398
+      },
+      {
+        "name": "2 star",
+        "count": 1665
+      },
+      {
+        "name": "3 star",
+        "count": 2313
+      },
+      {
+        "name": "4 star",
+        "count": 4897
+      },
+      {
+        "name": "5 star",
+        "count": 13124
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo2.webp",
+    "title": "Focus Plant: Pomodoro Forest",
+    "companyName": "hero.io labs",
+    "id": 7,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 221,
+    "reviews": 63939,
+    "ratingAvg": 4.1,
+    "downloads": 4780321,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 763
+      },
+      {
+        "name": "2 star",
+        "count": 1325
+      },
+      {
+        "name": "3 star",
+        "count": 4658
+      },
+      {
+        "name": "4 star",
+        "count": 4504
+      },
+      {
+        "name": "5 star",
+        "count": 7207
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo3.webp",
+    "title": "Alarmy - Alarm Clock & Sleep",
+    "companyName": "hero.io labs",
+    "id": 8,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 245,
+    "reviews": 33937,
+    "ratingAvg": 4.0,
+    "downloads": 676534,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 738
+      },
+      {
+        "name": "2 star",
+        "count": 477
+      },
+      {
+        "name": "3 star",
+        "count": 3142
+      },
+      {
+        "name": "4 star",
+        "count": 7111
+      },
+      {
+        "name": "5 star",
+        "count": 3935
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo4.webp",
+    "title": "Quick Notes Minimal",
+    "companyName": "hero.io labs",
+    "id": 9,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 209,
+    "reviews": 10961,
+    "ratingAvg": 3.7,
+    "downloads": 940498,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 207
+      },
+      {
+        "name": "2 star",
+        "count": 919
+      },
+      {
+        "name": "3 star",
+        "count": 4949
+      },
+      {
+        "name": "4 star",
+        "count": 3802
+      },
+      {
+        "name": "5 star",
+        "count": 16713
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo5.webp",
+    "title": "Zen Counter - Habit Ticker",
+    "companyName": "hero.io labs",
+    "id": 10,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 121,
+    "reviews": 33364,
+    "ratingAvg": 3.9,
+    "downloads": 1914255,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 474
+      },
+      {
+        "name": "2 star",
+        "count": 1879
+      },
+      {
+        "name": "3 star",
+        "count": 4364
+      },
+      {
+        "name": "4 star",
+        "count": 2888
+      },
+      {
+        "name": "5 star",
+        "count": 10184
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo6.webp",
+    "title": "Budget Buddy - Expense",
+    "companyName": "hero.io labs",
+    "id": 11,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 117,
+    "reviews": 28545,
+    "ratingAvg": 4.0,
+    "downloads": 7624940,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 130
+      },
+      {
+        "name": "2 star",
+        "count": 1014
+      },
+      {
+        "name": "3 star",
+        "count": 3841
+      },
+      {
+        "name": "4 star",
+        "count": 4073
+      },
+      {
+        "name": "5 star",
+        "count": 3711
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo1.webp",
+    "title": "FitTrack - Steps & Sleep",
+    "companyName": "hero.io labs",
+    "id": 12,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 136,
+    "reviews": 6237,
+    "ratingAvg": 4.5,
+    "downloads": 2056498,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 628
+      },
+      {
+        "name": "2 star",
+        "count": 1113
+      },
+      {
+        "name": "3 star",
+        "count": 4101
+      },
+      {
+        "name": "4 star",
+        "count": 7263
+      },
+      {
+        "name": "5 star",
+        "count": 19420
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo2.webp",
+    "title": "Recipe Cards - Home Cook",
+    "companyName": "hero.io labs",
+    "id": 13,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 241,
+    "reviews": 60038,
+    "ratingAvg": 4.5,
+    "downloads": 3652403,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 881
+      },
+      {
+        "name": "2 star",
+        "count": 1007
+      },
+      {
+        "name": "3 star",
+        "count": 817
+      },
+      {
+        "name": "4 star",
+        "count": 2948
+      },
+      {
+        "name": "5 star",
+        "count": 3849
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo3.webp",
+    "title": "MusiCat - Streams",
+    "companyName": "hero.io labs",
+    "id": 14,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 236,
+    "reviews": 69053,
+    "ratingAvg": 3.9,
+    "downloads": 4495521,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 726
+      },
+      {
+        "name": "2 star",
+        "count": 236
+      },
+      {
+        "name": "3 star",
+        "count": 4095
+      },
+      {
+        "name": "4 star",
+        "count": 9977
+      },
+      {
+        "name": "5 star",
+        "count": 11002
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo4.webp",
+    "title": "MindSpace - Breathe",
+    "companyName": "hero.io labs",
+    "id": 15,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 41,
+    "reviews": 7086,
+    "ratingAvg": 4.6,
+    "downloads": 5432014,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 690
+      },
+      {
+        "name": "2 star",
+        "count": 1777
+      },
+      {
+        "name": "3 star",
+        "count": 4735
+      },
+      {
+        "name": "4 star",
+        "count": 1524
+      },
+      {
+        "name": "5 star",
+        "count": 15961
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo5.webp",
+    "title": "Study Lamp - Flashcards",
+    "companyName": "hero.io labs",
+    "id": 16,
+    "description": "A clean, fast, privacy-friendly app to help you stay productive.",
+    "size": 249,
+    "reviews": 5526,
+    "ratingAvg": 4.0,
+    "downloads": 3394468,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 657
+      },
+      {
+        "name": "2 star",
+        "count": 1817
+      },
+      {
+        "name": "3 star",
+        "count": 3218
+      },
+      {
+        "name": "4 star",
+        "count": 6716
+      },
+      {
+        "name": "5 star",
+        "count": 2270
+      }
+    ]
+  }
+]
